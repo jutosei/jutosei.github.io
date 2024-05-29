@@ -1,0 +1,18 @@
+body {
+  background-image: url(../img/1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #d5e4ea;
+  color: #2d3043;
+}
+li {
+  font-size: 26px;
+}
+a:hover {
+  font-size: 28px;
+  color: #51779e;
+}
+a {
+  color: #2d3043;
+  padding: 1px;
+}
